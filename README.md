@@ -41,4 +41,4 @@ This first version has been created to solicit feedback on the fields I'll be us
     - Address: 136 Isabella St, Toronto, ON M4Y 0B5
 - Fee: The course fee for all ETFO AQs is $650 per course. $50 of this is a non-refundable registration fee. The $650 course fee is tax deductible. ([source](https://etfo-aq.ca/faqs/))
 - FAQs: [https://etfo-aq.ca/faqs/](https://etfo-aq.ca/faqs/)
-- Comment(s): N/A
+- Comment(s): N/A.
