@@ -1,5 +1,9 @@
 # AQ Providers in Ontario, Canada
 
+Welcome to this "communal" list of AQ providers in Ontario. I have created this as a resource for teachers that can be edited and maintained by anyone.
+
+This first version has been created to solicit feedback on the fields I'll be using for each AQ Provider. Please see the [Template](#template) section and let me know if you have any recommended changes before I start entering the other providers.
+
 ## Contents
 
 - [Template](#template)
