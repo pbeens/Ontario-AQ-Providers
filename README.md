@@ -6,6 +6,8 @@ This first version has been created to solicit feedback on the fields I'll be us
 
 ![new-issue](images/new-issue.png)
 
+If you missed the initial announcement about this page on my blog, visit [here](https://www.beens.ca/?p=208).
+
 ## Contents
 
 - [Template](#template)
