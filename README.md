@@ -58,5 +58,5 @@ If you missed the initial announcement about this page on my blog, visit [here](
   - Fax: (none)
   - Address: [4700 Keele St, Toronto, ON M3J 1P3](https://goo.gl/maps/yiFxrgj4x3iX2QT18)
 - Fee: AQ Course Tuition: $685, ABQ Course Tuition: $735, Honour Specialist: $750
-- FAQs: (none)
+- FAQs: (416) 736-5023
 - Comment(s): N/A
