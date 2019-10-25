@@ -12,7 +12,7 @@ If you missed the initial announcement about this page on my blog, visit [here](
 
 - [Template](#template)
 - [ETFO](#etfo)
-- [OISE (University of Toronto)](#oise--university-of-toronto-)
+- [OISE - University of Toronto](#oise---university-of-toronto)
 - [York University](#york-university)
 
 [comment]: # (The TOC is created at http://ecotrust-canada.github.io/markdown-toc/. Do not delete this comment!)
@@ -45,7 +45,7 @@ If you missed the initial announcement about this page on my blog, visit [here](
 - Fee: The course fee for all ETFO AQs is $650 per course. $50 of this is a non-refundable registration fee. The $650 course fee is tax deductible. ([source](https://etfo-aq.ca/faqs/))
 - FAQs: [https://etfo-aq.ca/faqs/](https://etfo-aq.ca/faqs/)
 
-## OISE (University of Toronto)
+## OISE - University of Toronto
 
 - URL: [https://cpl.oise.utoronto.ca/public/category/programStream.do?method=load&selectedProgramAreaId=18104&selectedProgramStreamId=18105](https://cpl.oise.utoronto.ca/public/category/programStream.do?method=load&selectedProgramAreaId=18104&selectedProgramStreamId=18105)
 - Important Dates: (none)
