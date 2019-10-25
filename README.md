@@ -21,7 +21,7 @@ If you missed the initial announcement about this page on my blog, visit [here](
 
 - URL: 
 - Important Dates: 
-- Contact Info: 
+- Contact Info:
   - URL: 
   - Contact Name: 
   - Phone: 
@@ -37,7 +37,7 @@ If you missed the initial announcement about this page on my blog, visit [here](
 - Important Dates: [https://etfo-aq.ca/catalogue/#dates](https://etfo-aq.ca/catalogue/#dates)
 - Contact Info:
   - URL: [https://etfo-aq.ca/contact/](https://etfo-aq.ca/contact/)
-  - Contact Name: (none)
+  - Contact Name: N/A
   - Phone: (416) 355-6752, 1-888-838-3836 x 3803
   - Email: [aqcourses@etfo.org](mailto:aqcourses@etfo.org)
   - Fax: (416) 355-6753, 1-877-832-0761
@@ -48,28 +48,28 @@ If you missed the initial announcement about this page on my blog, visit [here](
 ## OISE - University of Toronto
 
 - URL: [https://cpl.oise.utoronto.ca/public/category/programStream.do?method=load&selectedProgramAreaId=18104&selectedProgramStreamId=18105](https://cpl.oise.utoronto.ca/public/category/programStream.do?method=load&selectedProgramAreaId=18104&selectedProgramStreamId=18105)
-- Important Dates: (none)
-- Contact Info: 
-  - URL: (none)
-  - Contact Name: (none)
+- Important Dates: N/A
+- Contact Info:
+  - URL: N/A
+  - Contact Name: N/A
   - Phone: (416) 978-2474
   - Email: [oise.cpl@utoronto.ca](mailto:oise.cpl@utoronto.ca)
-  - Fax: (none)
+  - Fax: N/A
   - Address: [252 Bloor St W, Toronto, ON M5S 1V6](https://goo.gl/maps/wRv9JnE4RTUA29ot5)
 - Fee: 
 AQ Course Fee $685.00, ABQ Course Fee $735.00, Honour Specialist $TBD
-- FAQs: (none)
+- FAQs: N/A
 
 ## York University
 
 - URL: [https://edu.yorku.ca/profdev/](https://edu.yorku.ca/profdev/)
 - Important Dates: [http://edu.yorku.ca/profdev/forms-fees-dates/](http://edu.yorku.ca/profdev/forms-fees-dates/)
-- Contact Info: 
+- Contact Info:
   - URL: [http://site.info.yorku.ca/](http://site.info.yorku.ca/)
-  - Contact Name: (none)
+  - Contact Name: N/A
   - Phone: (416) 736-2100
-  - Email: (none)
-  - Fax: (none)
+  - Email: N/A
+  - Fax: (416) 736-5023
   - Address: [4700 Keele St, Toronto, ON M3J 1P3](https://goo.gl/maps/yiFxrgj4x3iX2QT18)
 - Fee: AQ Course Tuition: $685, ABQ Course Tuition: $735, Honour Specialist: $750
-- FAQs: (416) 736-5023
+- FAQs: N/A
