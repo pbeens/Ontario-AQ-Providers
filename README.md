@@ -60,6 +60,20 @@ If you missed the initial announcement about this page on my blog, visit [here](
 AQ Course Fee $685.00, ABQ Course Fee $735.00, Honour Specialist $TBD
 - FAQs: N/A
 
+## Queen's University
+
+- URL: [https://coursesforteachers.ca/courses](https://coursesforteachers.ca/courses)
+- Important Dates: [https://coursesforteachers.ca/courses](https://coursesforteachers.ca/courses)
+- Contact Info:
+  - URL: https://coursesforteachers.ca/on/contact
+  - Contact Name: N/A
+  - Phone: (613) 533-2387
+  - Email: [cedmail@queensu.ca](mailto:cedmail@queensu.ca)
+  - Fax: (613) 533-6702
+  - Address: [Duncan McArthur Hall, 511 Union St W, Kingston, ON K7M 2H3](https://goo.gl/maps/LuSXnrYGw4YwWw7D9)
+- Fee: ABQ/AQ: $685-$745 (see website), Honour Specialist: $745
+- FAQs: N/A
+
 ## York University
 
 - URL: [https://edu.yorku.ca/profdev/](https://edu.yorku.ca/profdev/)
