@@ -10,27 +10,13 @@ If you missed the initial announcement about this page on my blog, visit [here](
 
 ## Contents
 
-- [Template](#template)
 - [ETFO](#etfo)
 - [OISE - University of Toronto](#oise---university-of-toronto)
-- [Queen's University](#queen-s-university)
+- [Queen's University](#queens-university)
 - [York University](#york-university)
+- [Template](#template)
 
 [comment]: # (The TOC is created at http://ecotrust-canada.github.io/markdown-toc/. Do not delete this comment!)
-
-## Template
-
-- URL: 
-- Important Dates: 
-- Contact Info:
-  - URL: 
-  - Contact Name: 
-  - Phone: 
-  - Email: 
-  - Fax: 
-  - Address: (w/ link to Google Maps)
-- Fee: 
-- FAQs: 
 
 ## ETFO
 
@@ -88,3 +74,17 @@ AQ Course Fee $685.00, ABQ Course Fee $735.00, Honour Specialist $TBD
   - Address: [4700 Keele St, Toronto, ON M3J 1P3](https://goo.gl/maps/yiFxrgj4x3iX2QT18)
 - Fee: AQ Course Tuition: $685, ABQ Course Tuition: $735, Honour Specialist: $750
 - FAQs: N/A
+
+## Template
+
+- URL: 
+- Important Dates: 
+- Contact Info:
+  - URL: 
+  - Contact Name: 
+  - Phone: 
+  - Email: 
+  - Fax: 
+  - Address: (w/ link to Google Maps)
+- Fee: 
+- FAQs: 
