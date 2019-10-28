@@ -13,6 +13,7 @@ If you missed the initial announcement about this page on my blog, visit [here](
 - [Template](#template)
 - [ETFO](#etfo)
 - [OISE - University of Toronto](#oise---university-of-toronto)
+- [Queen's University](#queen-s-university)
 - [York University](#york-university)
 
 [comment]: # (The TOC is created at http://ecotrust-canada.github.io/markdown-toc/. Do not delete this comment!)
