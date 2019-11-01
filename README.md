@@ -10,11 +10,13 @@ If you missed the initial announcement about this page on my blog, visit [here](
 
 ## Contents
 
-- [ETFO](#etfo)
-- [OISE - University of Toronto](#oise---university-of-toronto)
-- [Queen's University](#queens-university)
-- [York University](#york-university)
-- [Template](#template)
+- [AQ Providers in Ontario, Canada](#aq-providers-in-ontario--canada)
+  * [ETFO](#etfo)
+  * [Laurentian University](#laurentian-university)
+  * [OISE - University of Toronto](#oise---university-of-toronto)
+  * [Queen's University](#queens-university)
+  * [York University](#york-university)
+  * [Template](#template)
 
 [comment]: # (The TOC is created at http://ecotrust-canada.github.io/markdown-toc/. Do not delete this comment!)
 
@@ -31,6 +33,20 @@ If you missed the initial announcement about this page on my blog, visit [here](
   - Address: [136 Isabella St, Toronto, ON M4Y 0B5](https://goo.gl/maps/yJhnAiyzakkzT6XU7)
 - Fee: The course fee for all ETFO AQs is $650 per course. $50 of this is a non-refundable registration fee. The $650 course fee is tax deductible. ([source](https://etfo-aq.ca/faqs/))
 - FAQs: [https://etfo-aq.ca/faqs/](https://etfo-aq.ca/faqs/)
+
+## Laurentian University
+
+- URL: [https://laurentian.ca/aq-and-abq-courses](https://laurentian.ca/aq-and-abq-courses)
+- Important Dates: [https://laurentian.ca/aq-and-abq-courses](https://laurentian.ca/aq-and-abq-courses)
+- Contact Info:
+  - URL: [https://laurentian.ca/aq-and-abq-courses](https://laurentian.ca/aq-and-abq-courses)
+  - Contact Name: (See webpage)
+  - Phone: (800) 461-4030
+  - Email: [AQ-courses@laurentienne.ca](mailto:AQ-courses@laurentienne.ca)
+  - Fax: N/A
+  - Address: [935 Ramsey Lake Rd. Sudbury, ON P3E 2C6](https://goo.gl/maps/mid4MPkRutLjtjpy8)
+- Fee: AQ $675, ABQ $750
+- FAQs: N/A
 
 ## OISE - University of Toronto
 
