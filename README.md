@@ -10,15 +10,15 @@ If you missed the initial announcement about this page on my blog, visit [here](
 
 ## Contents
 
-- [AQ Providers in Ontario, Canada](#aq-providers-in-ontario--canada)
   * [ETFO](#etfo)
   * [Laurentian University](#laurentian-university)
   * [OISE - University of Toronto](#oise---university-of-toronto)
-  * [Queen's University](#queens-university)
+  * [Queen's University](#queen-s-university)
+  * [Western](#western)
   * [York University](#york-university)
   * [Template](#template)
 
-[comment]: # (The TOC is created at http://ecotrust-canada.github.io/markdown-toc/. Do not delete this comment!)
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## ETFO
 
@@ -75,6 +75,20 @@ AQ Course Fee $685.00, ABQ Course Fee $735.00, Honour Specialist $TBD
   - Fax: (613) 533-6702
   - Address: [Duncan McArthur Hall, 511 Union St W, Kingston, ON K7M 2H3](https://goo.gl/maps/LuSXnrYGw4YwWw7D9)
 - Fee: ABQ/AQ: $685-$745 (see website), Honour Specialist: $745
+- FAQs: N/A
+
+## Western
+
+- URL: [https://www.aspire.uwo.ca/additionalQualifications.html](https://www.aspire.uwo.ca/additionalQualifications.html)
+- Important Dates: https://www.aspire.uwo.ca/dates.html
+- Contact Info:
+  - URL: https://www.aspire.uwo.ca/contact.html
+  - Contact Name: 
+  - Phone: 519.661.2111 ext. 84976
+  - Email: [aspire@uwo.ca](mailto:aspire@uwo.ca)
+  - Fax: 519.850.2526
+  - Address: [1137 Western Rd, London, ON N6G 1G7](https://goo.gl/maps/CQ62hS4QwThdmmi39)
+- Fee: Three-Part AQ: $675, Additional Basic AQ: $675, Honour Specialist: $725, Tech Studies: $725
 - FAQs: N/A
 
 ## York University
