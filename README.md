@@ -13,7 +13,7 @@ If you missed the initial announcement about this page on my blog, visit [here](
   * [ETFO](#etfo)
   * [Laurentian University](#laurentian-university)
   * [OISE - University of Toronto](#oise---university-of-toronto)
-  * [Queen's University](#queen-s-university)
+  * [Queen's University](#queens-university)
   * [Western](#western)
   * [York University](#york-university)
   * [Template](#template)
