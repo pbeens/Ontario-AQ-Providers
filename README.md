@@ -12,6 +12,7 @@ If you missed the initial announcement about this page on my blog, visit [here](
 
   * [ETFO](#etfo)
   * [Laurentian University](#laurentian-university)
+  * [Niagara University](#niagara-university)
   * [OISE - University of Toronto](#oise---university-of-toronto)
   * [Queen's University](#queens-university)
   * [Western](#western)
@@ -46,6 +47,20 @@ If you missed the initial announcement about this page on my blog, visit [here](
   - Fax: N/A
   - Address: [935 Ramsey Lake Rd. Sudbury, ON P3E 2C6](https://goo.gl/maps/mid4MPkRutLjtjpy8)
 - Fee: AQ $675, ABQ $750
+- FAQs: N/A
+
+## Niagara University
+
+- URL: [http://www.niagara.edu/aq](http://www.niagara.edu/aq)
+- Important Dates: [https://www.niagara.edu/aq-schedule/](https://www.niagara.edu/aq-schedule/)
+- Contact Info:
+  - URL: [https://www.niagara.edu/aq-contact/](https://www.niagara.edu/aq-contact/)
+  - Contact Name: Carmela Vitale
+  - Phone: 905.294.7260 ext. 1104
+  - Email: [http://apps.niagara.edu/people/contact.php?pid=0044052](http://apps.niagara.edu/people/contact.php?pid=0044052)
+  - Fax: N/A
+  - Address: [2904 Hwy 7 #113, Vaughan, ON L4K 0K4](https://goo.gl/maps/5yVLQtNfMFASfPCA8)
+- Fee: AQ courses: $695, ABQ courses: $650 (CAD)
 - FAQs: N/A
 
 ## OISE - University of Toronto
