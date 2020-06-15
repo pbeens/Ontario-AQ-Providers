@@ -60,7 +60,7 @@ If you missed the initial announcement about this page on my blog, visit [here](
   - Email: [http://apps.niagara.edu/people/contact.php?pid=0044052](http://apps.niagara.edu/people/contact.php?pid=0044052)
   - Fax: N/A
   - Address: [2904 Hwy 7 #113, Vaughan, ON L4K 0K4](https://goo.gl/maps/5yVLQtNfMFASfPCA8)
-- Fee: AQ courses: $695, ABQ courses: $650 (CAD)
+- Fee: AQ courses: $695, ABQ courses: $650 (CAD); for graduates of Niagara the fee is AQ: $625, ABQ: $585 (CAD)
 - FAQs: N/A
 
 ## OISE - University of Toronto
