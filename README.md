@@ -65,7 +65,7 @@ If you missed the initial announcement about this page on my blog, visit [here](
 
 ## OISE - University of Toronto
 
-* URL: [https://cpl.oise.utoronto.ca/public/category/programStream.do?method=load&selectedProgramAreaId=18104&selectedProgramStreamId=18105](https://cpl.oise.utoronto.ca/public/category/programStream.do?method=load&selectedProgramAreaId=18104&selectedProgramStreamId=18105)
+* URL: [https://cpl.oise.utoronto.ca/program_area/additional-qualitfications/](https://cpl.oise.utoronto.ca/program_area/additional-qualitfications/)
 * Important Dates: N/A
 * Contact Info:
   * URL: N/A
