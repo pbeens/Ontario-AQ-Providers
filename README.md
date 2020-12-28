@@ -10,16 +10,32 @@ If you missed the initial announcement about this page on my blog, visit [here](
 
 ## Contents
 
-* [ETFO](#etfo)
-* [Laurentian University](#laurentian-university)
-* [Niagara University](#niagara-university)
-* [OISE - University of Toronto](#oise---university-of-toronto)
-* [Queen's University](#queens-university)
-* [Western](#western)
-* [York University](#york-university)
-* [Template](#template)
+  * [Brock](#brock)
+  * [ETFO](#etfo)
+  * [Laurentian University](#laurentian-university)
+  * [Niagara University](#niagara-university)
+  * [OISE - University of Toronto](#oise---university-of-toronto)
+  * [Queen's University](#queens-university)
+  * [Western](#western)
+  * [York University](#york-university)
+  * [Template](#template)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
+## Brock
+
+* URL: [https://brocku.ca/guides-and-timetables/registration/in-service/](https://brocku.ca/guides-and-timetables/registration/in-service/)
+* Important Dates: <https://brocku.ca/guides-and-timetables/dates/>
+* Contact Info:
+  * URL: <https://brocku.ca/guides-and-timetables/registration/in-service/>
+  * Contact Name: N/A
+  * Phone: 905-688-5550 x3099
+  * Email: [records@brocku.ca](mailto:records@brocku.ca)
+  * Fax: N/A
+  * Address: [1812 Sir Isaac Brock Way, St. Catharines, ON L2S 3A1](https://goo.gl/maps/DsScdbsu3Yhqv4d59)
+* Fee: All AQ courses	$685 ([source](https://brocku.ca/safa/tuition-and-fees/overview/inservice/))
+* FAQs: N/A
 
 ## ETFO
 
