@@ -114,7 +114,7 @@ AQ Course Fee $685.00, ABQ Course Fee $735.00, Honour Specialist $TBD
 * Important Dates: https://www.aspire.uwo.ca/dates.html
 * Contact Info:
   * URL: https://www.aspire.uwo.ca/contact.html
-  * Contact Name: 
+  * Contact Name: N/A
   * Phone: 519.661.2111 ext. 84976
   * Email: [aspire@uwo.ca](mailto:aspire@uwo.ca)
   * Fax: 519.850.2526
