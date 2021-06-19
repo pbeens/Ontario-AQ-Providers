@@ -12,6 +12,7 @@ If you missed the initial announcement about this page on my blog, visit [here](
 
   * [Brock](#brock)
   * [ETFO](#etfo)
+  * [Lakehead University](#lakehead-university)
   * [Laurentian University](#laurentian-university)
   * [Niagara University](#niagara-university)
   * [OISE - University of Toronto](#oise---university-of-toronto)
@@ -21,6 +22,7 @@ If you missed the initial announcement about this page on my blog, visit [here](
   * [Template](#template)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 
 ## Brock
@@ -50,6 +52,20 @@ If you missed the initial announcement about this page on my blog, visit [here](
   * Address: [136 Isabella St, Toronto, ON M4Y 0B5](https://goo.gl/maps/yJhnAiyzakkzT6XU7)
 * Fee: The course fee for all ETFO AQs is $650 per course. $50 of this is a non-refundable registration fee. The $650 course fee is tax deductible. ([source](https://etfo-aq.ca/faqs/))
 * FAQs: [https://etfo-aq.ca/faqs/](https://etfo-aq.ca/faqs/)
+
+## Lakehead University
+
+* URL: [https://www.lakeheadu.ca/programs/departments/education/pd/about-aq-courses](https://www.lakeheadu.ca/programs/departments/education/pd/about-aq-courses)
+* Important Dates: Look for "Additional Qualification Course Schedule" [here].(https://www.lakeheadu.ca/programs/departments/education/pd).
+* Contact Info:
+  * URL: https://www.lakeheadu.ca/programs/departments/education/pd/about-aq-courses
+  * Contact Name: Colleen Woods
+  * Phone: (807) 343-8178
+  * Email: [AQYourWay@LakeheadU.ca](mailto:AQYourWay@LakeheadU.ca)
+  * Fax: : (807) 346-7882
+  * Address: [955 Oliver Rd, Thunder Bay, ON P7B 5E1](https://goo.gl/maps/JdEF1sAQF6xTUnDB8)
+* Fee: $650 for AQs and $725 for ABQs and Honour Specialist
+* FAQs: N/A
 
 ## Laurentian University
 
