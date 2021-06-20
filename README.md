@@ -15,6 +15,7 @@ If you missed the initial announcement about this page on my blog, visit [here](
   * [Lakehead University](#lakehead-university)
   * [Laurentian University](#laurentian-university)
   * [Niagara University](#niagara-university)
+  * [OECTA](#oecta)
   * [OISE - University of Toronto](#oise---university-of-toronto)
   * [Queen's University](#queens-university)
   * [Western](#western)
@@ -94,6 +95,21 @@ If you missed the initial announcement about this page on my blog, visit [here](
   * Address: [2904 Hwy 7 #113, Vaughan, ON L4K 0K4](https://goo.gl/maps/5yVLQtNfMFASfPCA8)
 * Fee: AQ courses: $695, ABQ courses: $650 (CAD); for graduates of Niagara the fee is AQ: $625, ABQ: $585 (CAD)
 * FAQs: N/A
+
+## OECTA
+
+* URL: <http://www.catholicteachers.ca/For-Your-Career/AQ-Courses>
+* Important Dates: Deadlines can be found on the course registration page.
+* Contact Info:
+  * URL: <http://www.catholicteachers.ca/Contact-Us>
+  * Contact Name: N/A
+  * Phone: 416-925-2493 or toll free 1-800-268-7230
+  * Email: [registrar@catholicteachers.ca](mailto:registrar@catholicteachers.ca)
+  * Fax: 416-925-7764
+  * Address: [65 St Clair Av E, Toronto, ON M4T 2Y3](https://goo.gl/maps/Vd44ysYowUU9D59v7)
+* Fee: The OECTA AQ course fee is $600 except for Religious Education Part I which is $550. <br>
+<http://www.catholicteachers.ca/For-Your-Career/AQ-Courses/Course-Fees-and-Cancellation>
+* FAQs: <http://www.catholicteachers.ca/For-Your-Career/AQ-Courses/FAQs>
 
 ## OISE - University of Toronto
 
