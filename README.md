@@ -74,7 +74,7 @@ If you missed the initial announcement about this page on my blog, visit [here](
 * Contact Info:
   * URL: [https://laurentian.ca/aq-and-abq-courses](https://laurentian.ca/aq-and-abq-courses)
   * Contact Name: (See webpage)
-  * Phone: (800) 461-4030
+  * Phone: (800) 461-4030 or (705) 675-1151
   * Email: [AQ-courses@laurentienne.ca](mailto:AQ-courses@laurentienne.ca)
   * Fax: N/A
   * Address: [935 Ramsey Lake Rd. Sudbury, ON P3E 2C6](https://goo.gl/maps/mid4MPkRutLjtjpy8)
