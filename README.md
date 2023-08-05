@@ -15,6 +15,7 @@ If you missed the initial announcement about this page on my blog, visit [here](
   * [Lakehead University](#lakehead-university)
   * [Laurentian University](#laurentian-university)
   * [Niagara University](#niagara-university)
+  * [Nipissing](#nipissing)
   * [OECTA](#oecta)
   * [OISE - University of Toronto](#oise---university-of-toronto)
   * [Queen's University](#queens-university)
@@ -23,8 +24,6 @@ If you missed the initial announcement about this page on my blog, visit [here](
   * [Template](#template)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-
 
 ## Brock
 
@@ -94,6 +93,20 @@ If you missed the initial announcement about this page on my blog, visit [here](
   * Fax: N/A
   * Address: [2904 Hwy 7 #113, Vaughan, ON L4K 0K4](https://goo.gl/maps/5yVLQtNfMFASfPCA8)
 * Fee: AQ courses: $695, ABQ courses: $650 (CAD); for graduates of Niagara the fee is AQ: $625, ABQ: $585 (CAD)
+* FAQs: N/A
+
+## Nipissing
+
+* URL: <https://www.nipissingu.ca/academics/schulich-school-education/professional-development-teachers>
+* Important Dates: Look for Important Dates tab
+* Contact Info:
+  * URL: Look for Contact tab
+  * Contact Name: N/A
+  * Phone: (705) 474-3461 Ext. 4217, (800) 655-5154 Ext. 4
+  * Email: inservice@nipissingu.ca
+  * Fax: 705-495-1772 (Registrar)
+  * Address: [100 College Dr, North Bay, ON P1B 8L7](https://g.page/nipissing-university-north-bay?share)
+* Fee: ABQ: $750 up to early bird registration deadline, $790 after early bird registration deadline. AQ: $675 up to early bird registration deadline, $715 after early bird registration deadline
 * FAQs: N/A
 
 ## OECTA
